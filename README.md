@@ -33,3 +33,4 @@ Ao iniciar o projeto, você irá se deparar com uma tela inicial, nela aparecer�
 <p> Consultar café → Informe o número do espaço de café que deseja consultar, a lista mostrará todos os participantes cadastrados naquele espaço de café.</p>
 
 ### Licença 
+Este projeto esta sob a licença [MIT](https://github.com/mayaracsimoes/Manager/blob/master/LICENSE).
