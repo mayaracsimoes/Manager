@@ -22,5 +22,10 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 - Na sua IDE, abra o projeto e execute
 - Ok, agora o projeto deve estar rodando em sua máquina.
 
+### Utilização
+Ao iniciar o projeto, você irá se deparar com uma tela inicial, nela aparecerá as seguintes opções:
+<p> Cadastrar participante → Informe o nome e o sobrenome do participante e clique em 'Cadastrar'.</p> 
+<p> Cadastrar sala → Informe o nome da sala e sua lotação máxima e clique em 'Cadastrar'.</p> 
+<p> Cadastrar café → Informe o nome do espaço de café e sua lotação máxima e clique em 'Cadastrar'.</p> 
 
 
