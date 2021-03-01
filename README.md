@@ -9,12 +9,18 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-- JDK
-- MySQL Workbench
+
+- [JDK](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)
+- [MySQL Workbench](https://dev.mysql.com/downloads/installer/)
+- [JDBC - Java Database Connectivity 5.1.23](https://dev.mysql.com/downloads/connector/j/)
 
 ### Instalação
 **Certifique-se de possuir uma IDE compatível com JAVA, eu recomendo o [Netbeans](https://netbeans.org/downloads/6.1/index.html?pagelang=pt_BR).**
 - Primeiramente, faça o download do código-fonte na [página do repositório Github](https://github.com/mayaracsimoes/Manager). Ou então, use $ git clone https://github.com/mayaracsimoes/Manager.
 - Após o download, abra o projeto clonado na IDE.
 - Inicie o MySQL Workbench e abra o arquivo Manager.sql, execute o código e certifique-se de que houve a importação do banco de dados.
+- Na sua IDE, abra o projeto e execute
+- Ok, agora o projeto deve estar rodando em sua máquina.
+
+
 
