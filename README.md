@@ -27,5 +27,8 @@ Ao iniciar o projeto, você irá se deparar com uma tela inicial, nela aparecer�
 <p> Cadastrar participante → Informe o nome e o sobrenome do participante e clique em 'Cadastrar'.</p> 
 <p> Cadastrar sala → Informe o nome da sala e sua lotação máxima e clique em 'Cadastrar'.</p> 
 <p> Cadastrar café → Informe o nome do espaço de café e sua lotação máxima e clique em 'Cadastrar'.</p> 
+<p> Consultar participante → Informe se a consulta será através do ID, nome ou sobrenome do participante. Em seguida, digite os dados na barra de pesquisa.</p> 
+<p> Consultar sala → Informe o número sala que deseja consultar, a lista mostrará todos os participantes cadastrados naquela sala.</p> 
+<p> Consultar café → Informe o número do espaço de café que deseja consultar, a lista mostrará todos os participantes cadastrados naquele espaço de café.</p>
 
 
