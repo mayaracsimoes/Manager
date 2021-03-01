@@ -13,6 +13,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 - [JDK](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)
 - [MySQL Workbench](https://dev.mysql.com/downloads/installer/)
 - [JDBC - Java Database Connectivity 5.1.23](https://dev.mysql.com/downloads/connector/j/)
+- [rs2xml](https://sourceforge.net/projects/finalangelsanddemons/)
 
 ### Instalação
 **Certifique-se de possuir uma IDE compatível com JAVA, eu recomendo o [Netbeans](https://netbeans.org/downloads/6.1/index.html?pagelang=pt_BR).**
